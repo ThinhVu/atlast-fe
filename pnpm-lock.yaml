@@ -1,9 +1,13 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   '@tvux/hmmjs':
-    specifier: ^0.69.420
-    version: 0.69.420
+    specifier: ^1.69.420
+    version: 1.69.420
   axios:
     specifier: ^1.3.4
     version: 1.3.4
@@ -739,8 +743,8 @@ packages:
     resolution: {integrity: sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==}
     dev: false
 
-  /@tvux/hmmjs@0.69.420:
-    resolution: {integrity: sha512-BoR2uRoF5vgoo6RQ0h3OVGVAxLCQ63qJnbgJafmVNWaFv8hp0DqYPd9eSb4mePyIjW3JNHhodVJS0C85g7SyRw==}
+  /@tvux/hmmjs@1.69.420:
+    resolution: {integrity: sha512-+enSWW7f14+m9WcmmPQhZyjNXUX0+FamtrQehpGLLsz/PKY7zhYlKWuOMK4MWkMeV7LkgwYG39LTM90G8fbfWA==}
     dev: false
 
   /@types/estree@1.0.0:

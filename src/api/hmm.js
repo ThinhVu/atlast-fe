@@ -1,4 +1,4 @@
-import '@tvux/hmmjs/src/builder'
+import '@tvux/hmmjs/src/builder.browser'
 import axios from 'axios'
 import jsonFn from 'json-fn'
 import {HMM_API_URL} from '@/constants'
